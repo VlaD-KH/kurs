@@ -1,0 +1,5 @@
+{
+  "name": "Google Trends BigQuery Dashboard",
+  "description": "A dashboard to visualize Google Trends data for specific BigQuery queries, showing top search terms, scores over time, and detailed data in a table.",
+  "requestFramePermissions": []
+}
